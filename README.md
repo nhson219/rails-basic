@@ -1,2 +1,2 @@
 # rails-basic
-My RoR basic
+My RoR basic.
